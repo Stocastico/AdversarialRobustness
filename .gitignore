@@ -1,5 +1,6 @@
 # folder with image data and annotations
 .data
+*.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
